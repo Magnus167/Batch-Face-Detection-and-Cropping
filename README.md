@@ -15,3 +15,7 @@ Setup instructions available at http://docs.opencv.org/2.4/doc/tutorials/introdu
 
 
 
+EDIT:
+http://milq.github.io/install-opencv-ubuntu-debian/
+also has a nice walkthrough, if you want a black box approach
+
