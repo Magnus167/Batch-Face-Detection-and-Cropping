@@ -19,3 +19,6 @@ EDIT:
 http://milq.github.io/install-opencv-ubuntu-debian/
 also has a nice walkthrough, if you want a black box approach
 
+
+UPDATE: @AdityaVerma use this :P
+https://stackoverflow.com/questions/30331944/finding-red-color-in-image-using-python-opencv
